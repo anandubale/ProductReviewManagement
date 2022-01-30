@@ -13,3 +13,4 @@ C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\obj\Debug\net5.0\LinqDemo.dll
 C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\obj\Debug\net5.0\ref\LinqDemo.dll
 C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\obj\Debug\net5.0\LinqDemo.pdb
 C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\obj\Debug\net5.0\LinqDemo.genruntimeconfig.cache
+C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\obj\Debug\net5.0\LinqDemo.csproj.AssemblyReference.cache
