@@ -45,11 +45,11 @@ namespace LinqDemo
 
             Management management = new Management();
             //UC2
-             management.TopRecords(productReviewsList);
+            //management.TopRecords(productReviewsList);
 
 
             //UC3
-            //management.selectedRecords(productReviewsList);
+            management.selectedRecords(productReviewsList);
 
             //UC4
             //management.RetrieveCountOfRecords(productReviewsList);
