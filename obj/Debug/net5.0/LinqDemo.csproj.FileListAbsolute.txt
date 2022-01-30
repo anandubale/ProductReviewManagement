@@ -1,0 +1,15 @@
+C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\bin\Debug\net5.0\LinqDemo.exe
+C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\bin\Debug\net5.0\LinqDemo.deps.json
+C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\bin\Debug\net5.0\LinqDemo.runtimeconfig.json
+C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\bin\Debug\net5.0\LinqDemo.runtimeconfig.dev.json
+C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\bin\Debug\net5.0\LinqDemo.dll
+C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\bin\Debug\net5.0\ref\LinqDemo.dll
+C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\bin\Debug\net5.0\LinqDemo.pdb
+C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\obj\Debug\net5.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\obj\Debug\net5.0\LinqDemo.AssemblyInfoInputs.cache
+C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\obj\Debug\net5.0\LinqDemo.AssemblyInfo.cs
+C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\obj\Debug\net5.0\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\obj\Debug\net5.0\LinqDemo.dll
+C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\obj\Debug\net5.0\ref\LinqDemo.dll
+C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\obj\Debug\net5.0\LinqDemo.pdb
+C:\Users\anand\Desktop\HalfTopics\LinQ\ConsoleApp1\obj\Debug\net5.0\LinqDemo.genruntimeconfig.cache
