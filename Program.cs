@@ -49,10 +49,10 @@ namespace LinqDemo
 
 
             //UC3
-            management.selectedRecords(productReviewsList);
+            //management.selectedRecords(productReviewsList);
 
             //UC4
-            //management.RetrieveCountOfRecords(productReviewsList);
+            management.RetrieveCountOfRecords(productReviewsList);
 
 
         }
