@@ -35,17 +35,17 @@ namespace LinqDemo
                 new ProductReviews() { ProductID = 14, UserID = 7, Rating = 5, Reviews = "Good", isLike = true }
 
             };
-           // UC1
-            foreach (var list in productReviewsList)
-            {
-                Console.WriteLine($"ProductID:- {list.ProductID} UserID:- {list.UserID} Rating:-{list.Rating} Reviews:- {list.Reviews} isLike:- {list.isLike}");
-            }
-
-            //Management management = new Management();
+            // UC1
+            //foreach (var list in productReviewsList)
+            //{
+            //    Console.WriteLine($"ProductID:- {list.ProductID} UserID:- {list.UserID} Rating:-{list.Rating} Reviews:- {list.Reviews} isLike:- {list.isLike}");
+            //}
 
 
+
+            Management management = new Management();
             //UC2
-            // management.TopRecords(productReviewsList);
+             management.TopRecords(productReviewsList);
 
 
             //UC3
