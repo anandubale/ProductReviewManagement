@@ -55,7 +55,10 @@ namespace LinqDemo
             //management.RetrieveCountOfRecords(productReviewsList);
 
             //UC5
-            management.RetrieveProductID(productReviewsList);
+            // management.RetrieveProductID(productReviewsList);
+
+            //UC6
+            management.SkipTopFive(productReviewsList);
 
 
 
