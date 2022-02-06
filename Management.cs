@@ -49,6 +49,17 @@ namespace LinqDemo
             }
         }
 
+        public void RetrieveProductID(List<ProductReviews> listProductReview)
+        {
+            var recordedData = (from list in listProductReview
+                                select new { list.ProductID, list.Reviews });
+            foreach (var list in recordedData)
+            {
+                Console.WriteLine(list.ToString());
+            }
+
+        }
+
 
     }
 }

@@ -52,7 +52,13 @@ namespace LinqDemo
             //management.selectedRecords(productReviewsList);
 
             //UC4
-            management.RetrieveCountOfRecords(productReviewsList);
+            //management.RetrieveCountOfRecords(productReviewsList);
+
+            //UC5
+            management.RetrieveProductID(productReviewsList);
+
+
+
 
 
         }
